@@ -1,0 +1,9 @@
+﻿蚂蚁加速器，帮助你自由安全的畅游互联网。
+本软件绝对安全，请放心使用。
+本软件需要微软公司的 .NET Framework 4.7.2 运行环境支持，如果没有安装，请前往下载
+
+.NET Framework 4.7.2 下载地址：https://dotnet.microsoft.com/download/thank-you/net472-offline
+蚂蚁加速器官网地址：https://aff.antss007.com/
+
+提示：如发现连接后无法正常使用，请将路径改为英文再尝试
+如果你使用本软件觉得还满意，请推荐给你身边的朋友，谢谢支持

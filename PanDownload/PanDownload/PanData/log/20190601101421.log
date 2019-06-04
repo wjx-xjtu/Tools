@@ -1,0 +1,12 @@
+2019-06-01 10:14:21 [INFO] pandownload version: 2.0.4
+2019-06-01 10:14:24 [WARN] rpc error (0): request error 28
+2019-06-01 10:14:25 [WARN] rpc error (0): request error 28
+2019-06-01 10:14:27 [WARN] rpc error (0): request error 28
+2019-06-01 10:14:27 [INFO] aria2 version: 1.34.0
+2019-06-01 10:14:27 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-01 10:14:27 [INFO] create main window
+2019-06-01 10:14:46 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/软件/microsoft visio 2016.zip" SIZE="2618780951"
+2019-06-01 10:14:46 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/软件/microsoft visio 2016.zip" SIZE="2618780951"
+2019-06-01 10:14:46 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/软件/microsoft visio 2016.zip" SIZE="2618780951"
+2019-06-01 10:16:03 [INFO] close main window
+2019-06-01 10:16:03 [INFO] exit

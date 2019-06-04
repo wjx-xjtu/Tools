@@ -1,0 +1,25 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"Markdown Preview",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"Theme - Soda",
+		"ZZZ"
+	]
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "caption": "Package Control: Add Repository→添加资源库",
+        "command": "add_repository"
+    },
+    {
+        "caption": "Package Control: Add Channel→添加资源库链接",
+        "command": "add_channel"
+    },
+    {
+        "caption": "Package Control: Create Binary Package File→创建二进制插件",
+        "command": "create_binary_package"
+    },
+    {
+        "caption": "Package Control: Create Package File→创建插件",
+        "command": "create_package"
+    },
+    {
+        "caption": "Package Control: Disable Package→禁用插件",
+        "command": "disable_package"
+    },
+    {
+        "caption": "Package Control: Discover Packages→搜索插件",
+        "command": "discover_packages"
+    },
+    {
+        "caption": "Package Control: Enable Package→启用插件",
+        "command": "enable_package"
+    },
+    {
+        "caption": "Package Control: Grab CA Certs→获取 CA 证书",
+        "command": "grab_certs"
+    },
+    {
+        "caption": "Package Control: Install Package→安装插件",
+        "command": "install_package"
+    },
+    {
+        "caption": "Package Control: List Packages→列出插件",
+        "command": "list_packages"
+    },
+    {
+        "caption": "Package Control: Remove Package→删除插件",
+        "command": "remove_package"
+    },
+    {
+        "caption": "Package Control: Upgrade Package→升级插件",
+        "command": "upgrade_package"
+    },
+    {
+        "caption": "Package Control: Upgrade/Overwrite All Packages→升级/覆盖所有插件",
+        "command": "upgrade_all_packages"
+    },
+    {
+        "caption": "Preferences: Package Control Settings – Default→插件设置 – 默认",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/Package Control/Package Control.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: Package Control Settings – User→插件设置 – 用户",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/Package Control.sublime-settings"
+        }
+    }
+]

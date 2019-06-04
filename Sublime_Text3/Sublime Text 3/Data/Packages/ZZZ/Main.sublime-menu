@@ -1,0 +1,56 @@
+[
+    {
+        "caption": "文件(F)",
+        "id": "file",
+    },
+    {
+        "caption": "编辑(E)",
+        "id": "edit",
+    },
+    {
+        "caption": "选择(S)",
+        "id": "selection",
+    },
+    {
+        "caption": "查找(I)",
+        "id": "find",
+    },
+    {
+        "caption": "查看(V)",
+        "id": "view",
+        "children":
+        [
+            { 
+                "caption": "时间",
+                "command": "show_time_in_status",
+            }
+        ]
+    },
+    {
+        "caption": "转到(G)",
+        "id": "goto",
+    },
+    {
+        "caption": "工具(T)",
+        "id": "tools",
+    },
+    {
+        "caption": "项目(P)",
+        "id": "project",
+    },
+    {
+        "caption": "首选项(N)",
+        "id": "preferences",
+        "children":
+        [
+            { 
+                "caption": "插件设置",
+                "id": "package-settings",
+            }
+        ]
+    },
+    {
+        "caption": "帮助(H)",
+        "id": "help",
+    }
+]

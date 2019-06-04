@@ -1,0 +1,33 @@
+Notepad++ v7.6.6 bug-fix:
+
+1. Fix crash issue inserted by adding an enhancement for retaining read only setting state in session.
+
+
+Notepad++ v7.6.5 new features and bug-fixes:
+
+0.  Security enhancement: GPG Signature is provided for Notepad++ release.
+1.  Fix a long waiting issue about file auto change detection: enhance "File status Auto-Detection" to avoid switching editing tab off behaviour.
+2.  Fix encoding (language) detection regressions since v7.6.
+3.  Fix a regression: double-clicking on a "find all in current document" result for an unsaved doc prompts to save it.
+4.  Added close all unchanged tabs command.
+5.  Restore deleted "Launch in browser" customized shortcuts in EU-FOSSA bounty program by implementing them in more secure way: Add "View Current File in Browser" for Firefox, Chrome, IE & Edge.
+6.  Retain read only setting state in session.
+7.  Enhancement: after file reload user can still undo.
+8.  Fix a bug in command "Remove Consecutive Duplicate Lines" and make it work with old Macintosh EOL.
+9.  Fix UDL language marker bullet position, if UDL Name exceeds 14 characters, extend UDL names to max 64 characters.
+10. Enhance external call code to avoid eventual arbitrary commands execution. (EURO-FOSSA)
+11. Fix crash issue by command "On Selection->Open File" while the number of selected characters is exceed 2048. (EURO-FOSSA)
+12. Fix crash issue of User Define dialog while deleting a unallocated entry. (EURO-FOSSA)
+13. Fix crash issue on shortcut command while its length exceed 260. (EURO-FOSSA)
+14. Add an enhancement on "Open..." command to prevent from the eventual crash. (EURO-FOSSA)
+15. Fix stack Buffer Overflow in Command::extractArgs. (EURO-FOSSA)
+
+Included plugins:
+
+1.  NppExport v0.2.8 (32-bit x86 only)
+2.  Converter 4.2.1
+3.  Mime Tool 2.5
+
+Updater (Installer only):
+
+* WinGup (for Notepad++) v5.1
