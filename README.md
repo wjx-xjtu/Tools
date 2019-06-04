@@ -1,6 +1,6 @@
 # Tools
 有用的电脑工具合集  
-Everything——文件查找  
+Everything——文件查找软件  
 MSVBCRTAIO_X64——VC库合集  
 PanDownload——百度网盘下载器  
 ScreenToGif——截图转GIf、视频软件  
